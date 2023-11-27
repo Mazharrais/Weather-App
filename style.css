@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.parent-weather{
+    margin-top: 20px;
+    width: 50%;
+    height: 550px;
+    border: solid;
+}
+
+
+
